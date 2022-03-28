@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 {
   "usingComponents": {}
+=======
+{
+  "usingComponents": {},
+  "navigationBarTitleText": " 我的信息"
+>>>>>>> Stashed changes
 }

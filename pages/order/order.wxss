@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 /* pages/order/order.wxss */
+=======
+.all_page {
+  display: flex;
+  flex-direction: column;
+}
+>>>>>>> Stashed changes

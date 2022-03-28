@@ -1,6 +1,15 @@
+<<<<<<< Updated upstream
 {
   "component": true,
   "usingComponents": {
     "searchInput":"../../components/searchInput/searchInput"
   }
+=======
+{
+  "component": true,
+  "usingComponents": {
+    "searchInput":"../../components/searchInput/searchInput"
+  },
+    "navigationBarTitleText": " 首页"
+>>>>>>> Stashed changes
 }

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /* pages/antiepd/antiepd.wxss */
 swiper {
   width: 100%;
@@ -6,3 +7,12 @@ swiper {
 image {
   width: 100%;
 }
+=======
+swiper {
+  width: 100%;
+  height: calc(100vw * 498 / 1080);
+}
+swiper image {
+  width: 100%;
+}
+>>>>>>> Stashed changes
